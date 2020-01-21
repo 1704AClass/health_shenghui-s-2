@@ -3,7 +3,7 @@ package com.itheima.entity;
 import java.io.Serializable;
 
 /**
- * 封装查询条件
+ * 封装查询条件，好的饿呢呢
  */
 public class QueryPageBean implements Serializable{
     private Integer currentPage;//页码
